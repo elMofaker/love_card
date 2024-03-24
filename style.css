@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    
 }
 
 .style {
@@ -17,6 +18,7 @@ body {
     border-radius: 20px;
     transition: 3s;
     transform: skew(50deg, -20deg);
+    font-family: auto;
 }
 
 .card:hover {
